@@ -3,7 +3,7 @@ I'm a recent graduate of Makers Academy, searching for roles as a Junior Develop
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=obean)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/oliver-beney)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/oliver-beney)
 <!--
 **obean/obean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
